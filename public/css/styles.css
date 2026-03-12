@@ -81,12 +81,12 @@ p a:hover{ color:#868e36; text-decoration:none;}
 .featItem img{margin-bottom:15px}
 
 /* services */
-#services{margin-top:14px}
-#services h2{font-size:14px; color:#9d1263; margin:0 0 10px 0}
-.service-grid{display:flex; gap:10px}
-.service-card{flex:1; background:#f9f9f9; border:1px solid #eee; padding:10px; border-radius:4px}
-.service-card h3{font-size:13px; color:#868e36; margin:0 0 6px 0}
-.service-card p{font-size:11px; color:#616161; margin:0}
+#services{margin:18px 12px 0 4px;}
+#services h2{font:12px/16px Tahoma, sans-serif; color:#868e36; margin-bottom:8px;}
+.service-grid{display:block;}
+.service-card{padding:8px 10px; margin-bottom:10px; border:1px solid #e6e6e6; background:#fafafa;}
+.service-card h3{font:11px/14px Tahoma, sans-serif; color:#9d1263; margin-bottom:4px;}
+.service-card p{font:10px/14px Tahoma, sans-serif; color:#616161;}
 
 .clear#end{height:20px}
 
