@@ -69,6 +69,15 @@ p a:hover{ color:#868e36; text-decoration:none;}
 #welcome p{margin-left:4px; margin-right:12px}
 #welcome p.headline{margin-bottom:15px}
 
+/* contact form */
+#contactForm{margin:0 0 16px 0; padding:12px; background:#fff7fb; border:1px solid #f0dfea; border-radius:4px}
+#contactForm h2{font:12px/16px Tahoma, sans-serif; color:#9d1263; margin:0 0 8px 0}
+#contactForm input,
+#contactForm textarea{width:100%; box-sizing:border-box; border:1px solid #e1e1e1; padding:6px 8px; margin:0 0 8px 0; font:10px/14px Tahoma, sans-serif; color:#616161; background:#fff}
+#contactForm textarea{height:70px; resize:vertical;}
+#contactForm button{background:#9d1263; color:#fff; border:none; padding:6px 10px; font:10px/14px Tahoma, sans-serif; cursor:pointer;}
+#contactForm button:hover{background:#861050;}
+
 /* about shop */
 #aboutShop{margin-top:12px; background:#fff7fb; border:1px solid #f0dfea; padding:12px; border-radius:4px}
 #aboutShop h2{font-size:14px; color:#9d1263; margin:0 0 8px 0}
