@@ -69,11 +69,24 @@ p a:hover{ color:#868e36; text-decoration:none;}
 #welcome p{margin-left:4px; margin-right:12px}
 #welcome p.headline{margin-bottom:15px}
 
+/* about shop */
+#aboutShop{margin-top:12px; background:#fff7fb; border:1px solid #f0dfea; padding:12px; border-radius:4px}
+#aboutShop h2{font-size:14px; color:#9d1263; margin:0 0 8px 0}
+#aboutShop p{font:11px/16px Tahoma, Geneva, sans-serif; color:#616161; margin:0 0 8px 0}
+
 #featured h2{height:38px; position:relative; background:url(../images/h_prod.gif) 0 0 no-repeat; margin-bottom:6px}
 #featured p.headline{margin-bottom:5px}
 .featItem{width:116px; float:left; margin-right:44px}
 .featItem#i03{margin-right:0}
 .featItem img{margin-bottom:15px}
+
+/* services */
+#services{margin-top:14px}
+#services h2{font-size:14px; color:#9d1263; margin:0 0 10px 0}
+.service-grid{display:flex; gap:10px}
+.service-card{flex:1; background:#f9f9f9; border:1px solid #eee; padding:10px; border-radius:4px}
+.service-card h3{font-size:13px; color:#868e36; margin:0 0 6px 0}
+.service-card p{font-size:11px; color:#616161; margin:0}
 
 .clear#end{height:20px}
 
